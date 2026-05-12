@@ -1,0 +1,13 @@
+*.zip
+find_phylo_dims/data/*
+!find_phylo_dims/data/ND5_9.csv
+find_phylo_dims/document/*
+find_phylo_dims/image/RF_aaindex/*
+find_phylo_dims/aaindex/data/*
+!find_phylo_dims/aaindex/data/ND5_9.csv
+find_phylo_dims/clustalo/ND5_9.fasta
+
+fitting/data/*
+!fitting/data/ND5_9.csv
+
+
